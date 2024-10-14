@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf6e3;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background-color: #fff3cd;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: auto;
+}
+
+h1 {
+    color: #d9534f;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+.signature {
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    color: #5a5a5a;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 100%;
+    border-radius: 10px;
+}
